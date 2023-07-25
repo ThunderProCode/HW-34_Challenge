@@ -1,0 +1,15 @@
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\bin\Debug\net7.0\HW#34_Challenge.exe
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\bin\Debug\net7.0\HW#34_Challenge.deps.json
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\bin\Debug\net7.0\HW#34_Challenge.runtimeconfig.json
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\bin\Debug\net7.0\HW#34_Challenge.dll
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\bin\Debug\net7.0\HW#34_Challenge.pdb
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.dll
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\refint\HW#34_Challenge.dll
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.pdb
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\HW#34_Challenge.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Documents\2023 Summer Semester\OOP\HW\HW#34_Challenge\obj\Debug\net7.0\ref\HW#34_Challenge.dll
